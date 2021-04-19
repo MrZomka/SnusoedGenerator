@@ -2,6 +2,11 @@
 <!DOCTYPE html>
 <html>
 <head><title>ГЕНЕРАТОР СНЮСОЕДОВ</title>
+  <style>
+ div {
+   background-image: url('snusoed.jpg');
+ }
+ </style> 
 <style type="text/css">
 h6 {
 	text-align: center;
@@ -55,7 +60,7 @@ echo($s);
 ?>
 <?php if (!isset($_GET["plain"])) : ?>
 </h1>
-<h3><a href="http://metamc.net/snusoed.php">Give it one more try!</a></h3>
+<h3><a href="http://metamc.net/snusoed.php">попробуй ещё раз</a></h3>
 </body>
 </html>
 <?php endif; ?>
