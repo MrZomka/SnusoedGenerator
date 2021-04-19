@@ -1,0 +1,2 @@
+# SnusoedGenerator
+генератор снюсоеда xDDDDDDDDD
