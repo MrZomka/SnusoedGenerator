@@ -2,11 +2,12 @@
 <!DOCTYPE html>
 <html>
 <head><title>ГЕНЕРАТОР СНЮСОЕДОВ</title>
-  <style>
- div {
-   background-image: url('snusoed.jpg');
- }
- </style> 
+<style>
+  body {
+  background-image: url(snusoed.jpeg");
+  background-color: #fff;
+  }
+</style>
 <style type="text/css">
 h6 {
 	text-align: center;
@@ -33,7 +34,7 @@ h1 {
 <h1><?php endif; ?>
 <?php
 $combinations = array(
-  "glagoly" => array("кидает", "вкинул", "отказался от", "срёт с помощью"),
+  "glagoly" => array("кидает", "принял", "отказался от", "срёт с помощью"),
   "things" => array("шелли в бабл квас", "minecraft", "отравляющей питсы из сталовки"),
 	"snusoed" => array("снюсоед", "анонимус")
 );
