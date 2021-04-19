@@ -29,11 +29,11 @@ h1 {
 <?php
 $combinations = array(
   "glagoly" => array("кидает", "вкинул", "отказался от", "срёт с помощью"),
-  "things" => array("шелли в бабл квас", "minecraft", "отравляющей питсы из сталовки")
-	"snusosed" => array("снюсоед", "анонимус")
+  "things" => array("шелли в бабл квас", "minecraft", "отравляющей питсы из сталовки"),
+	"snusoed" => array("снюсоед", "анонимус")
 );
 $sentences = array(
-	"[snusoed] который [glagoly]"
+	"[snusoed] который [glagoly] [things]"
 );
 
 function str_replace_first($search, $replace, $subject) {
