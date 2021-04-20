@@ -2,12 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head><title>ГЕНЕРАТОР СНЮСОЕДОВ</title>
-<style>
-  body {
-  background-image: url(snusoed.jpeg");
-  background-color: #fff;
-  }
-</style>
 <style type="text/css">
 h6 {
 	text-align: center;
@@ -19,13 +13,20 @@ a {
 }
 h3 {
 	text-align: center;
-	font-family: serif;
+	font-family: "Comic Sans MS";
+	color: #0000FF;
 	font-weight: normal;
 	font-size: 24px;
 }
 h1 {
 	text-align: center;
-	font-family: sans-serif;
+	color: #ff0000;
+	font-family: "Comic Sans MS";
+}
+body {
+	background-color: #000;
+	background-image: url(snusoed.jpeg);
+	font-family: "Comic Sans MS";
 }
 </style>
 </head>
